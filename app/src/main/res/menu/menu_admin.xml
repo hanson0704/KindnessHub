@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard"
+        android:id="@+id/adminDashboardFragment"
+        android:icon="@drawable/home_menu_icon"/>
+    <item android:title="Donations"
+        android:id="@+id/adminDonationFragment"
+        android:icon="@drawable/donate_menu_icon"/>
+    <item android:title="Profile"
+        android:id="@+id/adminProfileFragment"
+        android:icon="@drawable/user_menu_icon"/>
+</menu>

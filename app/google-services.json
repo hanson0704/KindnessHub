@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "771025525730",
+    "firebase_url": "https://kindness-hub-default-rtdb.firebaseio.com",
+    "project_id": "kindness-hub",
+    "storage_bucket": "kindness-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771025525730:android:5aca4f824991186fc3f7bb",
+        "android_client_info": {
+          "package_name": "com.example.kindnesshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771025525730-06i9dsmrf5r7so3oqk7ujv97nhdvplm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kindnesshub",
+            "certificate_hash": "c389c7b8355c93089d2a677ca22ca7308ab8168a"
+          }
+        },
+        {
+          "client_id": "771025525730-2jt66v90mnafiufvje5jbrh6hor4afd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYpsRpVE55EUl6vaEJHlSZFO7WIbpXmqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771025525730-2jt66v90mnafiufvje5jbrh6hor4afd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

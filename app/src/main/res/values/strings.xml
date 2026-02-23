@@ -1,0 +1,141 @@
+<resources>
+
+    <string name="empty"> </string>
+
+    <!--    Splash Screen-->
+    <string name="app_name">Kindness Hub</string>
+    <string name="kindness_hub">Kindness Hub</string>
+    <string name="designed_by_nhanson_vaz">Designed By\nHanson Vaz</string>
+    <string name="todo">TODO</string>
+    <string name="Tagline">\"Connecting Hearts, Spreading Kindness.\"</string>
+    <string name="designed_by_nIII_BCA" />
+
+    <!--    Start Screen-->
+    <string name="message1">"Your Generosity Can Change Lives!"</string>
+    <string name="message2">"We accept all kinds of items—big or small, new or old. Donate today and make a meaningful impact!"</string>
+
+    <!-- Login Page-->
+    <string name="lp1">Login To Your Account</string>
+    <string name="lp2">Continue with</string>
+    <string name="no_account"><u>Don\'t have an account?</u></string>
+
+    <!--    Signup Page-->
+    <!--    already have an account-->
+    <string name="al_account"><u>Already have an account?\nLogin Here</u></string>
+
+    <!--    Location Page-->
+    <string-array name="indian_states">
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+    </string-array>
+    <string name="info">Please select an accurate location from the list to ensure correct processing. Providing the right location helps in better service and support. Avoid manual typing to prevent errors in selection.If your location is not listed, choose the nearest available option</string>
+
+    <!--    Donation Page-->
+    <string-array name="donation_cause">
+        <item>Education</item>
+        <item>Health</item>
+        <item>Clothes</item>
+        <item>Food</item>
+        <item>Infrastructure</item>
+    </string-array>
+
+    <string-array name="payment_method">
+        <item>UPI</item>
+        <item>NEFT</item>
+        <item>RTGS</item>
+        <item>NET BANKING</item>
+    </string-array>
+
+
+    <!--    MainActivity-->
+    <string name="header">Explore Your Hub</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--    Lorem Ipsum-->
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+
+    <!--Home Fragment-->
+    <string name="aboutUs">Welcome to our app! We are dedicated to making charitable giving simple and accessible. Our mission is to connect people with trusted charitable organizations, allowing you to contribute to meaningful causes with just a few taps. Whether you want to support education, healthcare, or environmental causes, your generosity has the power to change lives. Join us today and make a difference in the world!</string>
+    <string name="aboutUs1"><u>ABOUT US</u></string>
+    <string name="missionVision">
+        Mission:\n"Our mission is to empower individuals to make a lasting impact by facilitating easy, secure, and transparent charitable giving. We believe that every contribution, no matter the size, can help improve lives and create a better, more compassionate world."\n
+            \nVision:\n"To create a global community where generosity is a natural part of everyday life, allowing everyone to contribute towards causes they care about, and making meaningful change possible with just a few clicks."
+    </string>
+
+
+    <!--    ADMIN LOGIN PAGE-->
+    <string name="admin1">Login To Your Dashboard</string>
+
+    <!--    Main Activity Admin-->
+    <string name="adminMainActivityHeader">Your Dashboard</string>
+
+    <string name="default_web_client_id">your-client-id.apps.googleusercontent.com</string>
+
+</resources>
