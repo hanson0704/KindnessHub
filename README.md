@@ -100,5 +100,5 @@ donations/
 
 ## 👨‍💻 Author
 Hanson Vaz  
-MCA Final Year Project  
+BCA Final Year Project  
 KindnessHub – Spreading Kindness Through Technology ❤️
